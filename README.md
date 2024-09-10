@@ -1,2 +1,2 @@
 # portfolio
- This is Gerardo Morsucci (Data Scientist Jr) portfolio!
+ This is Gerardo Morsucci Data Analyst portfolio!
