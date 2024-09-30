@@ -1,4 +1,3 @@
-# portfolio
 <div align="center">
   <h1> 👋 Hi, I'm Gerardo Morsucci!</h1>
   <div>
