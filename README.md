@@ -8,6 +8,8 @@
     <a href="https://github.com/geramorsucci" target="_blank">
       <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin: 5px;" />
     </a>
+    <a href="https://sites.google.com/view/gerardo-morsucci/" target="_blank">
+      <img src="https://png.pngtree.com/png-vector/20190330/ourmid/pngtree-vector-portfolio-icon-png-image_894864.jpg" alt="github" style="margin: 5px;" />
   </div>
 </div>
 
